@@ -1,13 +1,13 @@
 # Heart Attack Risk Analysis
 
-## Overview
-This repository contains the data analysis and predictive modeling for the [Heart Attack Risk Analysis competition on Kaggle](https://www.kaggle.com/competitions/heart-attack-risk-analysis). The goal of this competition is to use clinical parameters about a patient to predict the risk of a heart attack.
+## Introduction
+This project aims to leverage machine learning techniques to accurately classify the presence of heart disease in patients based on a variety of medical attributes. Utilizing the dataset available on Kaggle ([Heart Disease Data](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data/data)), this endeavor seeks to provide valuable insights into heart disease prediction and contribute to preventive health care measures.
 
-## Dataset
-The dataset for this competition includes several clinical features that might be indicative of a heart attack risk, such as age, sex, chest pain type, resting blood pressure, cholesterol levels, fasting blood sugar, rest ECG results, maximum heart rate achieved, exercise-induced angina, and more. The full description of the dataset and the features can be found on the [competition's data page](https://www.kaggle.com/competitions/heart-attack-risk-analysis/data).
+## Dataset Overview
+The dataset consists of several medical attributes that are indicative of heart disease presence. These attributes include age, sex, chest pain type, resting blood pressure, cholesterol levels, fasting blood sugar, rest ECG results, maximum heart rate achieved, exercise-induced angina, and more. For detailed information on the dataset, including feature descriptions and data preparation, please visit the dataset page on Kaggle.
 
 ## Objective
-The objective of this project is to apply machine learning techniques to predict whether a patient is at high risk of having a heart attack. This involves exploratory data analysis (EDA), preprocessing the dataset, selecting appropriate features, training models, and evaluating their performance.
+The primary objective of this project is to develop a model that can predict the likelihood of a patient having heart disease based on their medical attributes. By doing so, we aim to aid in early detection and potentially save lives through timely intervention.
 
 ## Usage
 This section provides a step-by-step guide on how to run the analysis and prediction models:
