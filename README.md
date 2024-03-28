@@ -1,4 +1,4 @@
-# Heart Attack Risk Analysis
+# Heart Disease Predictive Analysis
 
 ## Introduction
 This project aims to leverage machine learning techniques to accurately classify the presence of heart disease in patients based on a variety of medical attributes. Utilizing the dataset available on Kaggle ([Heart Disease Data](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data/data)), this endeavor seeks to provide valuable insights into heart disease prediction and contribute to preventive health care measures.
